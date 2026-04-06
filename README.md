@@ -16,6 +16,7 @@ Diagnostic (Why did it happen?): Investigated the 2014 profit dip by analyzing t
 
 Predictive (What will happen?): Utilized temporal trends to forecast potential sales trajectories based on historical seasonality.
 
+
 Prescriptive (What should we do?): Recommended data-driven resource allocation and marketing spend based on high-performing regions and products.
 
 🛠️ Technical Contributions
@@ -54,3 +55,8 @@ By pinpointing the exact moment and reason for the 2014 trend shift, this projec
 /Documentation : Full report and methodology.
 
 "In the world of data, every business question we answer solves a current problem and prevents a future one."
+<img width="689" height="375" alt="1" src="https://github.com/user-attachments/assets/4df4d8d7-5c36-42e2-a571-a0d461edc3ce" />
+<img width="692" height="375" alt="2" src="https://github.com/user-attachments/assets/6826f9d3-765b-4a8f-ab23-3472a5130c7e" />
+<img width="694" height="374" alt="3" src="https://github.com/user-attachments/assets/59d0c45a-f650-42ee-ae1e-a3e8790565f1" />
+<img width="689" height="376" alt="4" src="https://github.com/user-attachments/assets/d6347057-5527-4d88-b40f-6e51eefdbf68" />
+<img width="650" height="324" alt="5" src="https://github.com/user-attachments/assets/452afdb5-4456-42e4-8d08-c4b59731b618" />
