@@ -1,5 +1,7 @@
 🛒 Global Mega Store: Sales & Performance Analytics (2011-2014)
+
 📌 Project Overview
+
 This project delivers an end-to-end Power BI business intelligence solution for a global retail entity. The analysis covers a massive dataset of 19K+ customers and over $165M in revenue, focusing on the critical drivers of profitability, customer behavior, and regional growth.
 
 The core objective was not just to visualize data, but to answer a strategic business mystery: "Why did net profit decline in 2014 despite a steady upward trend since 2011?"
